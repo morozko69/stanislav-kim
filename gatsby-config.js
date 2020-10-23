@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Станислав Ким`,
-    description: `Бизнес-консультант в ИТ`,
+    title: `РЎС‚Р°РЅРёСЃР»Р°РІ РљРёРј`,
+    description: `Р‘РёР·РЅРµСЃ-РєРѕРЅСЃСѓР»СЊС‚Р°РЅС‚ РІ РРў`,
     author: `@stmoroz`,
   },
   plugins: [
